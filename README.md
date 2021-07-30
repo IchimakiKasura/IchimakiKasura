@@ -17,17 +17,17 @@
 #### - 🌟 born with a genetic disease called being a ` f i l i p i n o `
 <br>
 
-<center>
-<h3>Tis' i don't know</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=IchimakiKasura&show_icons=true&include_all_commits=true&theme=omni&custom_title=%E4%BF%BA%E3%81%AEGitHub%20Stats&count_private=true&bg_color=ff87e5&title_color=994887&border_radius=40" height="150"/></a>
+<p align="center">
+<h3 align="center">Tis' i don't know</h3>
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IchimakiKasura&show_icons=true&include_all_commits=true&theme=omni&custom_title=%E4%BF%BA%E3%81%AEGitHub%20Stats&count_private=true&bg_color=ff87e5&title_color=994887&border_radius=40" height="150"/></a>
 <br>
-<h4>doesn't mean I main C# 🙃</h4>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchimakiKasura&layout=compact&theme=omni&bg_color=ff87e5&title_color=994887&border_radius=40" height="100"/></a>
+<h4 align="center">doesn't mean I main C# 🙃</h4>
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchimakiKasura&layout=compact&theme=omni&bg_color=ff87e5&title_color=994887&border_radius=40" height="100"/></a>
 <br>
 <br>
-<img src="./astorufo.png" title="I love Astolfo" height="60"/> <br>
+<img align="center" src="./astorufo.png" title="I love Astolfo" height="60"/> <br>
 Ichimaki-chan at ur service 
-</center>
+</p>
 
 <!--
 **IchimakiKasura/IchimakiKasura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
