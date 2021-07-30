@@ -12,7 +12,7 @@
 ### - 🌱 I’m currently learning `uh idk C#? Js?`
 ### - 📫 How to reach me: `discord yes "Kasura#7773"`
 ### - ⚡ Fun fact: `I code for fun and not take anything seriously 😀ヾ(•ω•)o`
-### - 🌟 born with a genetic disease called being a ` :philippines: `
+### - 🌟 born with a genetic disease called being a ` f i l i p i n o `
 <br>
 <br>
 
