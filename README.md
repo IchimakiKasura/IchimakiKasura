@@ -24,7 +24,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchimakiKasura&layout=compact&theme=omni&bg_color=ff87e5&title_color=994887&border_radius=40" height="100"/></a>
 <br>
 <br>
-<img src="./astorufo.png" title="I love Astolfo" height="60"/><br>Ichimaki-chan at ur service 
+<img src="./astorufo.png" title="I love Astolfo" height="60"/>Ichimaki-chan at ur service 
 
 <!--
 **IchimakiKasura/IchimakiKasura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
