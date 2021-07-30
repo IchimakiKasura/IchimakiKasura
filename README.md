@@ -1,4 +1,5 @@
 # Welcome to me  -プロフィール-
+<!-- Lol it the style don't work on github but it works on my VScode preview wth -->
 <img src="./astorufo.png" title="I love Astolfo" height="60" style="border-radius:360%;position:relative;left:35px"/>
 
 ### I'm [Ichimaki Kasura](https://github.com/IchimakiKasura)
