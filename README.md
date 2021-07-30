@@ -4,7 +4,7 @@
 <br>
 <img alt="uh" src="https://img.shields.io/badge/Is%20a%20freaking%20weeb:-Idk-red?style=flat">
 <img alt="uh" src="https://img.shields.io/badge/-No%20I'm%20not%20flexing%20this%20is%20just%20cool-yellow?style=flat">
-<img alt="uh" src="https://img.shields.io/badge/-I%20love%20astolfo-ff69b4?style=flat">
+<img href="https://i.kym-cdn.com/photos/images/original/001/292/047/1a8.jpg" alt="uh" src="https://img.shields.io/badge/-I%20love%20astolfo-ff69b4?style=flat">
 <br>
 <br>
 
