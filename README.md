@@ -19,15 +19,15 @@
 
 <div align="center">
 <h3>Tis' i don't know</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=IchimakiKasura&show_icons=true&include_all_commits=true&theme=omni&custom_title=%E4%BF%BA%E3%81%AEGitHub%20Stats&count_private=true&bg_color=ff87e5&title_color=994887&border_radius=40" height="150"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=IchimakiKasura&show_icons=true&include_all_commits=true&theme=omni&custom_title=%E4%BF%BA%E3%81%AEGitHub%20Stats&count_private=true&title_color=994887&border_radius=40&bg_color=360,ff00f5,a200ff" height="190"/></a>
 <br/>
 <h4>doesn't mean I main C# 🙃</h4>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchimakiKasura&layout=compact&theme=omni&bg_color=ff87e5&title_color=994887&border_radius=40" height="130"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchimakiKasura&layout=compact&theme=omni&title_color=994887&border_radius=40&bg_color=64,ff00f5,a200ff" height="160"/></a>
 <br/>
 <br/>
 Ichimaki-chan at ur service
 <br/>
 <img src="./astorufo.png" title="I love Astolfo" height="60"/> 
-</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIchimakiKasura&count_bg=%23000000&title_bg=%23FF00A6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+</div>
