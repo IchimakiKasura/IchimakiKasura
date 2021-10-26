@@ -22,11 +22,13 @@
 <div align="center">
 <h3>Tis' i don't know</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=IchimakiKasura&show_icons=true&include_all_commits=true&theme=omni&custom_title=%E4%BF%BA%E3%81%AEGitHub%20Stats&count_private=true&title_color=994887&border_radius=40&bg_color=360,ff00f5,a200ff" height="190"/></a>
-<br/>
 <h4>doesn't mean I main JS 🙃</h4>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchimakiKasura&layout=compact&theme=omni&title_color=994887&border_radius=40&bg_color=64,ff00f5,a200ff" height="160"/></a>
 <br/>
 <br/>
+-=My Best repository=-<br/>
+<iframe title="kasura's nhentai API" src="https://ichimakikasura.github.io/kasu.nhentaiapi.js/embed/embed101" frameborder="0" width="500" height="280"></iframe>
+
 Ichimaki-chan at ur service
 <br/>
 <img src="./astorufo.png" title="I love Astolfo" height="60"/> 
