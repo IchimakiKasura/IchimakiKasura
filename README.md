@@ -27,7 +27,7 @@
 <br/>
 <br/>
 -=My Best repository=-<br/>
-<iframe title="kasura's nhentai API" src="https://ichimakikasura.github.io/kasu.nhentaiapi.js/embed/embed101" frameborder="0" width="500" height="280"></iframe>
+<a href="https://ichimakikasura.github.io/kasu.nhentaiapi.js/" title=""><img style="border-radius:25px" src="https://ichimakikasura.github.io/kasu.nhentaiapi.js/other/previewLink.jpg" width="50%" style="max-width: 850px;" alt=""></a>
 
 Ichimaki-chan at ur service
 <br/>
