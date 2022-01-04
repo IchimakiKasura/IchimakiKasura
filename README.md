@@ -21,6 +21,7 @@
 </br>
 <div align="center">
 <img src="./img/Repositories.png" width="600">
+</br>
 <a href="https://ichimakikasura.github.io/kasu.nhentaiapi.js/"><img src="https://ichimakikasura.github.io/kasu.nhentaiapi.js/other/previewLink.png" width="350" title="kasu.nhentaiapi.js"></a>
 <a href="https://github.com/akomi-dev/NHentai-App/"><img src="./img/NhentaiApp.png" width="350" title="NhentaiApp [Unofficial]"></a>
 </br>
