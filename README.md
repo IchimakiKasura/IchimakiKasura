@@ -1,5 +1,5 @@
-<img src="./img/About Me.png" width="400">
 <img src="./img/77th Director.png" width="360" align="right">
+<img src="./img/About Me.png" width="400">
 
 - Hi, I'm [**Ichimaki Kasura**](https://github.com/IchimakiKasura).
 
