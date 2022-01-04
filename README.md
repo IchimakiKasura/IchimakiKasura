@@ -3,7 +3,7 @@
 
 - Hi, I'm [**Ichimaki Kasura**](https://github.com/IchimakiKasura).
 
-- I live in **Manila, Philippines** :ph:
+- I live in **Manila, Philippines** :philippines:
 
 - I Can speak English, Tagalog and very little 日本語 :jp:
 
