@@ -22,7 +22,7 @@
 <div align="center">
 <img src="./img/Repositories.png" width="600">
 </br>
-<a href="https://ichimakikasura.github.io/kasu.nhentaiapi.js/"><img src="https://ichimakikasura.github.io/kasu.nhentaiapi.js/other/previewLink.png" width="350" title="kasu.nhentaiapi.js"></a>
+<a href="https://ichimakikasura.github.io/kasu.nhentaiapi.js/"><img src="https://ichimakikasura.github.io/kasu.nhentaiapi.js/other/previewLink.png" width="350" title="kasu.nhentaiapi.js"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/akomi-dev/NHentai-App/"><img src="./img/NhentaiApp.png" width="350" title="NhentaiApp [Unofficial]"></a>
 </br>
 </br>
@@ -35,18 +35,29 @@ Other Repositories:
 </br>
 </br>
 <img src="./img/Languages.png" width="500"><br>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="100" title="Node JS">
-<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="100" title="C# (dotnet)">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="100" title="Node JS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="100" title="C# (dotnet)">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" width="100" title="Javascript">
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="100" title="Hyper Text Markup Language">
+</br>
+</br>
+</br>
+Other ones that I used but not really mastered or good with:
+<br>
+(some are not really a language)
+</br>
+</br>
+<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="50" title="Hyper Text Markup Language">&nbsp;&nbsp;
+<img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="100" title="HyperText Preprocessor">&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="35" title="Java">&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" title="Python">&nbsp;&nbsp;
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="100" title="MySQL">
 </br>
 </br>
 </br>
 </br>
-Ichimaki-kun at your funeral service.
+<sub>Ichimaki-kun at your funeral service.</sub>
 </br>
 <img src="./img/Profile Picture.png" title="Hutao at your funeral Service" height="60"/>
 </br>
 <img src="https://komarev.com/ghpvc/?username=IchimakiKasura&color=ff69b4">
 </div>
-
