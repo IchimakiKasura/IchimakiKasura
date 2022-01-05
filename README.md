@@ -28,8 +28,6 @@ Though by the looks of you...</br>
 Radiant glow, healthy posture...</br>
 Yes, you're definitely here for something other than that which falls</br>
 within my regular line of work, aren't you?</h3></kbd>
-</br>
-</br>
 <img src="./img/Repositories.png" width="600">
 </br>
 <a href="https://ichimakikasura.github.io/kasu.nhentaiapi.js/"><img src="https://ichimakikasura.github.io/kasu.nhentaiapi.js/other/previewLink.png" width="350" title="kasu.nhentaiapi.js
