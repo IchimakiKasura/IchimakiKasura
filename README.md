@@ -22,16 +22,12 @@ Doushu no watashi ni nanika you ka na? Are,
 shiranakatta? Watashi ga Oujou-dou nanajuunanadaime doushu,
 Fuutao da yo! Demo anata, tsuya no aru kami ni kenkousou na karada shiteru... Sokka!
 Shigoto igai de watashi ni you ga aru tte koto da ne?
-">
-<h3>
-Yoh, now why might you be looking for me, hm? Oh, you didn't know?</br>
+"><h3>Yoh, now why might you be looking for me, hm? Oh, you didn't know?</br>
 I'm the 77th Director of the Wangsheng Funeral Parlor, Hu Tao.</br>
 Though by the looks of you...</br>
 Radiant glow, healthy posture...</br>
 Yes, you're definitely here for something other than that which falls</br>
-within my regular line of work, aren't you?
-</h3>
-</kbd>
+within my regular line of work, aren't you?</h3></kbd>
 </br>
 </br>
 <img src="./img/Repositories.png" width="600">
