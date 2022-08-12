@@ -74,5 +74,5 @@ Other ones that I used but not really mastered or good with:
 </br>
 <img src="./img/Profile Picture.png" title="Hutao at your funeral Service" height="60"/>
 </br>
-<!-- <img src="https://komarev.com/ghpvc/?username=IchimakiKasura&color=ff69b4"> -->
+<img src="https://komarev.com/ghpvc/?username=IchimakiKasura&color=ff69b4">
 </div>
