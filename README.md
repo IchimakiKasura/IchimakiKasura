@@ -6,8 +6,8 @@
 - 📖 I Can speak English, Tagalog and very little 日本語.
 - 📖 Still learning 日本語.
 - 🌟 Wanna be a Full-stack Developer, a Game Developer or Senior Programmer but
-it is rather impossible since I am often being lazy most of the times
-but in the end I'm just a junior programmer or even just an mediocre*.
+I'm lazy so yeah I have too much high expectation on myself lmao I'd rather call
+my self a junior programmer.
 - 📬How to Reach or Contact me?
   <a href="https://discord.com/users/716593062217908274"><img src="https://discord.c99.nl/widget/theme-3/716593062217908274.png" width="400" title="Contact me on Discord?"></a></br>
       Email me: **ichimakikasura@gmail.com**
