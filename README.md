@@ -66,7 +66,7 @@ Other ones that I used but not really mastered or good with:
 </br>
 <b>Language Stats:</b>
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchimakiKasura&langs_count=10&bg_color=115,734949,BF3636,BF3636,734949,FFFFFF&title_color=F2D399&text_color=D9A282&border_radius=20&hide_title=true&hide_border=true&card_width=500">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchimakiKasura&langs_count=10&bg_color=115,734949,BF3636,BF3636,734949&title_color=F2D399&text_color=D9A282&border_radius=20&hide_title=true&hide_border=true&card_width=300">
 </br>
 </br>
 </br>
@@ -74,5 +74,5 @@ Other ones that I used but not really mastered or good with:
 </br>
 <img src="./img/Profile Picture.png" title="Hutao at your funeral Service" height="60"/>
 </br>
-<img src="https://komarev.com/ghpvc/?username=IchimakiKasura&color=ff69b4">
+<img src="https://count.getloli.com/get/@IchimakiKasura?theme=rule34">
 </div>
