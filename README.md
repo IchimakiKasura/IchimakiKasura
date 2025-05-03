@@ -2,32 +2,14 @@
 <img src="./img/About Me.png" width="458">
 
 - 📛 Hi, I'm [**Ichimaki Kasura**](https://github.com/IchimakiKasura).
-- 🌏 I live in **Manila, Philippines**.
 - 📖 I Can speak English, Tagalog and very little 日本語.
-- 📖 Still learning 日本語.
-- 🌟 Wanna be a Full-stack Developer, a Game Developer or Senior Programmer but
+- 🌟 ~~Wanna be a Full-stack Developer, a Game Developer or Senior Programmer but
 I'm lazy so yeah I have too much high expectation on myself lmao I'd rather call
-my self a junior programmer.
+my self a junior programmer.~~
 - 📬How to Reach or Contact me?
   <a href="https://discord.com/users/716593062217908274"><img src="https://discord.c99.nl/widget/theme-3/716593062217908274.png" width="400" title="Contact me on Discord?"></a></br>
       Email me: **ichimakikasura@gmail.com**
 <div align="center">
-<kbd title=" Japanese:
-堂主の私に何か用かな？あれ、
-知らなかった？私が往生堂七十七代目堂主、
-胡桃だよ！でもあなた、ツヤのある髪に健康そうな体してる･･･そっか！
-仕事以外で私に用があるってことだね？&#10;
-Romaji:
-Doushu no watashi ni nanika you ka na? Are,
-shiranakatta? Watashi ga Oujou-dou nanajuunanadaime doushu,
-Fuutao da yo! Demo anata, tsuya no aru kami ni kenkousou na karada shiteru... Sokka!
-Shigoto igai de watashi ni you ga aru tte koto da ne?
-"><h3>Yoh, now why might you be looking for me, hm? Oh, you didn't know?</br>
-I'm the 77th Director of the Wangsheng Funeral Parlor, Hu Tao.</br>
-Though by the looks of you...</br>
-Radiant glow, healthy posture...</br>
-Yes, you're definitely here for something other than that which falls</br>
-within my regular line of work, aren't you?</h3></kbd>
 <img src="./img/Repositories.png" width="600">
 </br>
 <a href="https://ichimakikasura.github.io/kasu.nhentaiapi.js/"><img src="https://ichimakikasura.github.io/kasu.nhentaiapi.js/other/previewLink.png" width="350" title="kasu.nhentaiapi.js
