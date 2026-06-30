@@ -12,18 +12,12 @@ my self a junior programmer.~~
 <div align="center">
 <img src="./img/Repositories.png" width="600">
 </br>
-<a href="https://ichimakikasura.github.io/kasu.nhentaiapi.js/"><img src="https://ichimakikasura.github.io/kasu.nhentaiapi.js/other/previewLink.png" width="350" title="kasu.nhentaiapi.js
-The &quot;N-hentai-api&quot; is a fast and easy to use api for connecting to nhentai.net and nhentai.to data."></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/akomi-dev/NHentai-App/"><img src="./img/NhentaiApp.png" width="350" title="NhentaiApp [Unofficial]"></a>
+<a href="https://ichimakikasura.github.io/Stew/"><img src="./img/stew.png" width="350" title="Stew Stack"></a>
 </br>
 </br>
 Other Repositories:
 </br>
-<a href="https://github.com/IchimakiKasura/kasu.nhentaiapi.cs" title="kasu.nhentaiapi.cs">KasuNhentaiCS<a>
-|
 <a href="https://github.com/IchimakiKasura/kasu.nhentaiapi.cs/tree/main/kasuNhentaiCS.json" title="KasuNhentaiCS.json">JsonDeserializer<a>
-</br>
-</br>
 </br>
 <img src="./img/Languages.png" width="500"><br>
 <img src="https://skillicons.dev/icons?i=nodejs" width="100" title="Node JS">   
@@ -55,6 +49,7 @@ Other ones that I used but not really mastered or good with:
 <sub><small>Ichimaki-kun at your funeral service.</small></sub>
 </br>
 <img src="./img/Profile Picture.png" title="Hutao at your funeral Service" height="60"/>
+</br>
 </br>
 <img src="https://count.getloli.com/get/@IchimakiKasura?theme=rule34">
 </div>
